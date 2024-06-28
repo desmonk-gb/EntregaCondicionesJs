@@ -1,0 +1,51 @@
+
+body{
+    text-align: center;
+    padding: 30px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-align: center;
+    font-size: 40px;
+    
+}
+
+
+.contenedor {
+    text-align: center;
+}
+.caja {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+.caja-contenedor {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+select {
+    margin-top: 10px;
+    width: 178px;
+    height: 59px;
+    font-size: 40x;
+}
+button {
+    margin-top: 20px;
+
+}
+button {
+    margin-top: 20px;
+    width: 180px;
+    height: 90px;
+    color: rgb(8, 8, 8);
+    background-color: rgb(15, 187, 93);
+    font-size: large;
+}
+
+input {
+    margin-top: 90px;
+    
+}
+.mensaje{
+    font-size: 40x;
+}
